@@ -31,7 +31,6 @@
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.WebView">
       <RootProperty Name="Name" />
-      <RootProperty Name="Source" />
     </RootType>
     <RootType FullName="furry_app.MainPage" />
   </Roots.RootTypes>

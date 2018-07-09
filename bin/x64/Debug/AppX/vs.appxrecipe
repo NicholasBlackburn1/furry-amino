@@ -19,25 +19,25 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\nickthegamer\source\repos\furry-app\furry-app\bin\x64\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>282C13B85FA6B5FB6688950FB9C106852AC1275981F5EBE8D2A9CD9AE9D5081B</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>1C8C02621CD5DB355E37E4860DE2073444B77A8C7778F1A586E1F8CE256518DD</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>a162de72-b240-4753-9ac8-5bb3718247c1_1.0.0.0_x64__zq7ympxpxkch8</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>a162de72-b240-4753-9ac8-5bb3718247c1_zq7ympxpxkch8!App</RegisteredUserModeAppID>
     <RegisteredPackageID>a162de72-b240-4753-9ac8-5bb3718247c1</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=nickthegamer</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
-    <JitOptimizationSuppressed>False</JitOptimizationSuppressed>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-07-09T04:04:42.861</Modified>
+      <Modified>2018-07-09T16:49:22.196</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\bin\x64\Debug\furry-app.exe">
       <PackagePath>entrypoint\furry-app.exe</PackagePath>
-      <Modified>2018-07-09T03:36:39.970</Modified>
+      <Modified>2018-07-09T16:49:16.078</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -495,9 +495,209 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-06-12T03:15:04.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:03.430</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:03.532</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:03.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:03.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:04.487</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\logo.png">
       <PackagePath>Assets\logo.png</PackagePath>
       <Modified>2018-07-09T02:00:37.493</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:02.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:02.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:02.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:02.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:02.327</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:05.466</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:05.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:05.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:06.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:02.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:02.444</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:02.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:02.737</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:05.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:05.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:05.211</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:05.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:04.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:04.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:04.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:04.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:04.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:04.850</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:05.056</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:04.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:04.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:06.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:07.052</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:07.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:07.180</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:07.263</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:02.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:02.874</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:02.955</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-09T04:38:03.348</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -506,32 +706,27 @@
     <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-29T13:15:28.729</Modified>
+      <Modified>2018-07-09T04:38:06.061</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-29T13:15:28.729</Modified>
+      <Modified>2018-07-09T04:38:02.577</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-29T13:15:28.729</Modified>
+      <Modified>2018-07-09T04:38:04.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-29T13:15:28.729</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-29T13:15:28.729</Modified>
+      <Modified>2018-07-09T04:38:05.168</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-29T13:15:28.729</Modified>
+      <Modified>2018-07-09T04:38:03.055</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -539,15 +734,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\bin\x64\Debug\furry-app.xr.xml">
       <PackagePath>furry-app.xr.xml</PackagePath>
-      <Modified>2018-07-09T03:35:39.210</Modified>
+      <Modified>2018-07-09T05:05:57.779</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-07-09T04:04:41.353</Modified>
+      <Modified>2018-07-09T16:49:15.395</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-07-09T04:04:41.355</Modified>
+      <Modified>2018-07-09T16:49:15.397</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -556,11 +751,11 @@
     <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-07-09T04:00:03.027</Modified>
+      <Modified>2018-07-09T16:49:20.939</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\bin\x64\Debug\Core\furry-app.exe">
       <PackagePath>furry-app.exe</PackagePath>
-      <Modified>2018-07-09T04:04:42.766</Modified>
+      <Modified>2018-07-09T16:49:22.177</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

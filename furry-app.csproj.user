@@ -3,6 +3,16 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
     <RemoteDebugMachine>192.168.1.21</RemoteDebugMachine>
     <AuthenticationMode>Universal</AuthenticationMode>
-    <RemoteDebugEnabled>true</RemoteDebugEnabled>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Source>C:\Users\nickthegamer\Pictures\a6587f98ae32f5760786ac0c3649e53ef92b56f2_hq.jpg</Source>
+    <SmallTileSource>C:\Users\nickthegamer\Pictures\a6587f98ae32f5760786ac0c3649e53ef92b56f2_hq.jpg</SmallTileSource>
+    <MediumTileSource>C:\Users\nickthegamer\Pictures\a6587f98ae32f5760786ac0c3649e53ef92b56f2_hq.jpg</MediumTileSource>
+    <WideTileSource>C:\Users\nickthegamer\Pictures\a6587f98ae32f5760786ac0c3649e53ef92b56f2_hq.jpg</WideTileSource>
+    <LargeTileSource>C:\Users\nickthegamer\Pictures\a6587f98ae32f5760786ac0c3649e53ef92b56f2_hq.jpg</LargeTileSource>
+    <AppIconSource>C:\Users\nickthegamer\Pictures\a6587f98ae32f5760786ac0c3649e53ef92b56f2_hq.jpg</AppIconSource>
+    <SplashScreenSource>C:\Users\nickthegamer\Pictures\a6587f98ae32f5760786ac0c3649e53ef92b56f2_hq.jpg</SplashScreenSource>
+    <PackageLogoSource>C:\Users\nickthegamer\Pictures\a6587f98ae32f5760786ac0c3649e53ef92b56f2_hq.jpg</PackageLogoSource>
   </PropertyGroup>
 </Project>
