@@ -9,3 +9,4 @@ C:\Users\nickthegamer\source\repos\furry-app\furry-app\obj\x86\Debug\MainPage.xa
 C:\Users\nickthegamer\source\repos\furry-app\furry-app\obj\x86\Debug\App.xbf
 C:\Users\nickthegamer\source\repos\furry-app\furry-app\obj\x86\Debug\MainPage.xbf
 C:\Users\nickthegamer\source\repos\furry-app\furry-app\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\nickthegamer\source\repos\furry-app\furry-app\obj\x86\Debug\furry-app.csproj.CoreCompileInputs.cache

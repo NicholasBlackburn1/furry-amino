@@ -27,6 +27,10 @@ namespace furry_app
             this.InitializeComponent();
 
         }
-       
+
+        private void Button_Click()
+        {
+
+        }
     }
 }

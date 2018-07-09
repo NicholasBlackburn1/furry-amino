@@ -7,9 +7,12 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-    <Grid>
-        <Image Name="logo" Source="Assets/logo.jpg">
-           
-        </Image>
+
+    <Grid FocusVisualPrimaryBrush="Black">
+        <Image Source="Assets/logo.png" HorizontalAlignment="Left" Margin = "183,10,0,0" VerticalAlignment="Top" Height="290" Width="1411"/>
+        <Button Content="Start" Click="Button_Click" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="183,0,0,138" FocusVisualPrimaryBrush="#FFBF3131" Width="82"/>
+        <Button Content="exit" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="657,0,0,138" FocusVisualPrimaryBrush="#FFBF3131" Width="92"/>
+
     </Grid>
 </Page>
+
