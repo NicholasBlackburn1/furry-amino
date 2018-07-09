@@ -29,6 +29,9 @@
       <RootProperty Name="RenderTransformOrigin" />
       <RootEvent Name="Click" />
     </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.WebView">
+      <RootProperty Name="Name" />
+    </RootType>
     <RootType FullName="furry_app.MainPage" />
   </Roots.RootTypes>
 </Roots>

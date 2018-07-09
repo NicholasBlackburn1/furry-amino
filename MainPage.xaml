@@ -12,7 +12,7 @@
         <Image Source="Assets/logo.png" HorizontalAlignment="Left" Margin = "183,10,0,0" VerticalAlignment="Top" Height="290" Width="590"/>
         <Button Content="Start" Click="Button_Click" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="183,0,0,138" FocusVisualPrimaryBrush="#FFBF3131" Width="82"/>
         <Button Content="exit" Click="Button_Click_1" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="681,0,0,138" FocusVisualPrimaryBrush="#FFBF3131" Width="92" RenderTransformOrigin="-0.355,1.106"/>
-        <WebView Name="furry" />
+        <WebView Name="furry" Source="https://aminoapps.com/c/furry-amino/home"/>        
     </Grid>
 </Page>
 

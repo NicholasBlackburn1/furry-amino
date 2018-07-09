@@ -19,25 +19,25 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\nickthegamer\source\repos\furry-app\furry-app\bin\x64\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>AF91EF1A7524DE52B0AAE823C8D3DE9E68AE6DC20BD146AA661372F5948401D7</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>282C13B85FA6B5FB6688950FB9C106852AC1275981F5EBE8D2A9CD9AE9D5081B</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>a162de72-b240-4753-9ac8-5bb3718247c1_1.0.0.0_x64__zq7ympxpxkch8</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>a162de72-b240-4753-9ac8-5bb3718247c1_zq7ympxpxkch8!App</RegisteredUserModeAppID>
     <RegisteredPackageID>a162de72-b240-4753-9ac8-5bb3718247c1</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=nickthegamer</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
-    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+    <JitOptimizationSuppressed>False</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-07-09T03:20:35.245</Modified>
+      <Modified>2018-07-09T04:04:42.861</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\bin\x64\Debug\furry-app.exe">
       <PackagePath>entrypoint\furry-app.exe</PackagePath>
-      <Modified>2018-07-09T03:20:33.761</Modified>
+      <Modified>2018-07-09T03:36:39.970</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -539,15 +539,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\bin\x64\Debug\furry-app.xr.xml">
       <PackagePath>furry-app.xr.xml</PackagePath>
-      <Modified>2018-07-09T03:20:33.074</Modified>
+      <Modified>2018-07-09T03:35:39.210</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-07-09T03:20:33.164</Modified>
+      <Modified>2018-07-09T04:04:41.353</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-07-09T03:20:33.169</Modified>
+      <Modified>2018-07-09T04:04:41.355</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -556,11 +556,11 @@
     <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-07-09T03:18:52.438</Modified>
+      <Modified>2018-07-09T04:00:03.027</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nickthegamer\source\repos\furry-app\furry-app\bin\x64\Debug\Core\furry-app.exe">
       <PackagePath>furry-app.exe</PackagePath>
-      <Modified>2018-07-09T03:20:35.220</Modified>
+      <Modified>2018-07-09T04:04:42.766</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
