@@ -8,13 +8,10 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid>
-        <Image Source="Assets/logo.png" HorizontalAlignment="Left" Margin = "277,10,0,0" VerticalAlignment="Top" Height="290" Width="1411"/>
-        <Button x:ConnectionId='2' Name="button"                       Content="Welcome_Guide" HorizontalAlignment="Left" Margin = "156,390,0,0" VerticalAlignment="Top"/>
-        <Button x:ConnectionId='3' Name="button2"                       Content="welcome_video" HorizontalAlignment="Right" Margin = "0,390,148,0" VerticalAlignment="Top"/>
-        <Button x:ConnectionId='4' Name="button3"                       Content="Weclome_page"  HorizontalAlignment="Center" Margin = "0,390,0,0" VerticalAlignment="Top"/>
-        <MediaElement x:ConnectionId='5' Name="player" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" AreTransportControlsEnabled="False" />
-        <MediaElement x:ConnectionId='6' Name="music" AutoPlay="True" />
+    <Grid FocusVisualPrimaryBrush="Black">
+        <Image Source="Assets/logo.png" HorizontalAlignment="Left" Margin = "183,10,0,0" VerticalAlignment="Top" Height="290" Width="1411"/>
+        <Button x:ConnectionId='2' Content="Start"                      HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="183,0,0,138" FocusVisualPrimaryBrush="#FFBF3131" Width="82"/>
+        <Button x:ConnectionId='3' Content="exit"                        HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="657,0,0,138" FocusVisualPrimaryBrush="#FFBF3131" Width="92"/>
 
     </Grid>
 </Page>
