@@ -6,13 +6,13 @@
     <RemoteDebugEnabled>false</RemoteDebugEnabled>
   </PropertyGroup>
   <PropertyGroup>
-    <Source>C:\Users\nickthegamer\Pictures\a6587f98ae32f5760786ac0c3649e53ef92b56f2_hq.jpg</Source>
-    <SmallTileSource>C:\Users\nickthegamer\Pictures\a6587f98ae32f5760786ac0c3649e53ef92b56f2_hq.jpg</SmallTileSource>
-    <MediumTileSource>C:\Users\nickthegamer\Pictures\a6587f98ae32f5760786ac0c3649e53ef92b56f2_hq.jpg</MediumTileSource>
-    <WideTileSource>C:\Users\nickthegamer\Pictures\a6587f98ae32f5760786ac0c3649e53ef92b56f2_hq.jpg</WideTileSource>
-    <LargeTileSource>C:\Users\nickthegamer\Pictures\a6587f98ae32f5760786ac0c3649e53ef92b56f2_hq.jpg</LargeTileSource>
-    <AppIconSource>C:\Users\nickthegamer\Pictures\a6587f98ae32f5760786ac0c3649e53ef92b56f2_hq.jpg</AppIconSource>
-    <SplashScreenSource>C:\Users\nickthegamer\Pictures\a6587f98ae32f5760786ac0c3649e53ef92b56f2_hq.jpg</SplashScreenSource>
-    <PackageLogoSource>C:\Users\nickthegamer\Pictures\a6587f98ae32f5760786ac0c3649e53ef92b56f2_hq.jpg</PackageLogoSource>
+    <Source>C:\Users\nickthegamer\Pictures\furry amino app logo.png</Source>
+    <SmallTileSource>C:\Users\nickthegamer\Pictures\furry amino app logo.png</SmallTileSource>
+    <MediumTileSource>C:\Users\nickthegamer\Pictures\furry amino app logo.png</MediumTileSource>
+    <WideTileSource>C:\Users\nickthegamer\Pictures\furry amino app logo.png</WideTileSource>
+    <LargeTileSource>C:\Users\nickthegamer\Pictures\furry amino app logo.png</LargeTileSource>
+    <AppIconSource>C:\Users\nickthegamer\Pictures\furry amino app logo.png</AppIconSource>
+    <SplashScreenSource>C:\Users\nickthegamer\Pictures\furry amino app logo.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\nickthegamer\Pictures\furry amino app logo.png</PackageLogoSource>
   </PropertyGroup>
 </Project>

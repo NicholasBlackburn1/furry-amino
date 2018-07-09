@@ -27,16 +27,16 @@ namespace furry_app
             this.InitializeComponent();
 
         }
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
 
+        }
         
        protected override void OnNavigatedTo(NavigationEventArgs e)
         {
             furry.Navigate(new Uri("https://aminoapps.com/c/furry-amino/home/"));
         }
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-
-        }
+       
     }
 
     }
