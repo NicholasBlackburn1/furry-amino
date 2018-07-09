@@ -25,6 +25,25 @@ namespace furry_app
         public MainPage()
         {
             this.InitializeComponent();
+
         }
+        private async void launchURI_Click(object sender, RoutedEventArgs e)
+        {
+            // The URI to launch
+            var uriBing = new Uri(@"http://www.bing.com");
+
+            // Launch the URI
+            var success = await Windows.System.Launcher.LaunchUriAsync(uriBing);
+
+            if (success)
+            {
+                // URI launched
+            }
+            else
+            {
+                // URI launch failed
+            }
+        }
+    }
     }
 }
