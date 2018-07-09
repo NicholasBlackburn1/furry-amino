@@ -28,14 +28,10 @@ namespace furry_app
 
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
+        private void Button_Click(object sender, RoutedEventArgs e) { 
 
-        }
-
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-
+            furry.Navigate(new Uri("https://aminoapps.com/c/furry-amino/home/"));
         }
     }
-}
+    }
+
